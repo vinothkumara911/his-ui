@@ -1,0 +1,7 @@
+{
+  "name": "his_ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
